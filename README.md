@@ -1,4 +1,4 @@
-# BnGraphemizer: TRIE-based tokenizer for Bengali Text Recognintion
+# BnGraphemizer: TRIE-based tokenizer for Bengali Text Recognition
 
 ![How BnGraphemizer Works](resource/BnGraphemizer.png)
 
