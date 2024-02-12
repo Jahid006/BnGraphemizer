@@ -7,5 +7,5 @@
 
 Run
 `
-pip install git+https://github.com/Jahid006/BnTokenizerForTextRecognition
+pip install git+https://github.com/Jahid006/BnGraphemizer
 ` to install the package directly
