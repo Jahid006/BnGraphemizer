@@ -12,3 +12,5 @@ Run
 `
 pip install git+https://github.com/Jahid006/BnGraphemizer
 ` to install the package directly
+
+Related papers: [BnGraphemizer: A Grapheme-based Tokenizer for Bengali Handwritten Text Recognition](https://www.researchgate.net/publication/378148698_BnGraphemizer_A_Grapheme-based_Tokenizer_for_Bengali_Handwritten_Text_Recognition)
